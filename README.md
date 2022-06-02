@@ -1,7 +1,12 @@
 # Hey There! 👋🏼
 I'm Christian - I write code
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react&theme=dark)](https://skillicons.dev)
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,vue,graphql,stackoverflow&theme=dark&perline=5)](https://skillicons.dev)
+
+## Learning
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <details>
   <summary>GitHub Stats ⚡</summary>
