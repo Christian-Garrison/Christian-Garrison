@@ -3,7 +3,8 @@ I'm Christian - I write code
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,vue,graphql,stackoverflow&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,react,vue,graphql,stackoverflow&theme=dark)](https://skillicons.dev)
 
 ## Learning
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -19,5 +20,5 @@ I'm Christian - I write code
   <summary>Most Used Languages</summary>
   
   ###
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Garrison&layout=compact&hide=php,less,hack,shell&theme=dark)](https://github.com/Christian-Garrison/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Garrison&layout=compact&hide=less,hack,shell&theme=dark)](https://github.com/Christian-Garrison/github-readme-stats)
 </details>
