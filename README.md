@@ -4,7 +4,7 @@ I'm Christian - I write code
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts&theme=dark)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,react,vue,graphql,stackoverflow&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,react,graphql,stackoverflow&theme=dark)](https://skillicons.dev)
 
 ## Learning
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
