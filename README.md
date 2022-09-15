@@ -13,12 +13,12 @@ I'm Christian - I write code
   <summary>GitHub Stats ⚡</summary>
   
   ###
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Garrison&count_private=true&theme=dark)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Garrison&count_private=true&theme=dracula)
 </details>
 
 <details>
   <summary>Most Used Languages</summary>
   
   ###
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Garrison&layout=compact&hide=less,hack,shell&theme=dark)](https://github.com/Christian-Garrison/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Garrison&layout=compact&hide=less,hack,shell&theme=dracula)](https://github.com/Christian-Garrison/github-readme-stats)
 </details>
