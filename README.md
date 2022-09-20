@@ -1,24 +1,34 @@
 # Hey There! 👋🏼
+
 I'm Christian - I write code
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts&theme=dark)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,react,graphql,stackoverflow&theme=dark)](https://skillicons.dev)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts&theme=dark)  
+![skills](https://skillicons.dev/icons?i=php,nodejs,react,graphql,github&theme=dark)
+
+## Specialized Frameworks
+
+![next.js](https://img.shields.io/badge/next.js-000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## Learning
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+![unity](https://img.shields.io/badge/unity-000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![jest](https://img.shields.io/badge/jest-000.svg?style=for-the-badge&logo=jest&logoColor=C21325)
+![cypress](https://img.shields.io/badge/cypress-000.svg?style=for-the-badge&logo=cypress&logoColor=04c38e)
 
 <details>
-  <summary>GitHub Stats ⚡</summary>
-  
-  ###
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Garrison&count_private=true&theme=dracula)
+<summary>GitHub Stats</summary>
+<br>
+
+![GitHub stats](https://github-readme-stats.christian-garrison.vercel.app/api?username=Christian-Garrison&count_private=true&theme=dracula)
+
 </details>
 
 <details>
-  <summary>Most Used Languages</summary>
-  
-  ###
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Garrison&layout=compact&hide=less,hack,shell&theme=dracula)](https://github.com/Christian-Garrison/github-readme-stats)
+<summary>Most Used Languages</summary>
+<br>
+
+![Top Langs](https://github-readme-stats.christian-garrison.vercel.app/api/top-langs/?username=Christian-Garrison&layout=compact&theme=dracula)
+
 </details>
