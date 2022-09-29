@@ -11,6 +11,10 @@ I'm Christian - I write code
 
 ![next.js](https://img.shields.io/badge/next.js-000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
+### Other Frameworks
+
+![gatsby](https://img.shields.io/badge/gatsby-000.svg?style=for-the-badge&logo=gatsby&logoColor=663399)
+
 ## Learning
 
 ![unity](https://img.shields.io/badge/unity-000.svg?style=for-the-badge&logo=unity&logoColor=white)
