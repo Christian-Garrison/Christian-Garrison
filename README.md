@@ -10,6 +10,7 @@
 ## Frameworks
 
 ![next.js](https://img.shields.io/badge/next.js-000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![remix](https://img.shields.io/badge/remix-000.svg?style=for-the-badge&logo=remix&logoColor=white)
 ![gatsby](https://img.shields.io/badge/gatsby-000.svg?style=for-the-badge&logo=gatsby&logoColor=663399)
 
 ## Testing
