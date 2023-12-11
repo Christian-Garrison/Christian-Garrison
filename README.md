@@ -1,9 +1,11 @@
-# Hey There! 👋🏼
+# Hello World! I'm Christian Garrison 👋🏼
+
+[![Holopin Badges](https://holopin.me/christiangarrison)](https://holopin.io/@christiangarrison)
 
 ## Skills
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts&theme=dark)  
-![skills](https://skillicons.dev/icons?i=php,nodejs,react,graphql,github&theme=dark)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,git&theme=dark)  
+![skills](https://skillicons.dev/icons?i=markdown,php,nodejs,react,graphql,github&theme=dark)
 
 ## Frameworks
 
