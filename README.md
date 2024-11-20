@@ -32,12 +32,14 @@
 
 ## Frameworks
 
+![NestJS](https://img.shields.io/badge/nestjs-282A36.svg?style=for-the-badge&logo=nestjs&logoColor=FF79C6)
 ![next.js](https://img.shields.io/badge/next.js-282A36.svg?style=for-the-badge&logo=next.js&logoColor=FF79C6)
 ![remix](https://img.shields.io/badge/remix-282A36.svg?style=for-the-badge&logo=remix&logoColor=FF79C6)
 ![gatsby](https://img.shields.io/badge/gatsby-282A36.svg?style=for-the-badge&logo=gatsby&logoColor=FF79C6)
 
-## Testing
+## Development & Testing
 
+![storybook](https://img.shields.io/badge/storybook-282A36.svg?style=for-the-badge&logo=storybook&logoColor=8BE9FD)
 ![jest](https://img.shields.io/badge/jest-282A36.svg?style=for-the-badge&logo=jest&logoColor=8BE9FD)
 ![cypress](https://img.shields.io/badge/cypress-282A36.svg?style=for-the-badge&logo=cypress&logoColor=8BE9FD)
 ![testing-library](https://img.shields.io/badge/testing--library-282A36.svg?style=for-the-badge&logo=testing-library&logoColor=8BE9FD)
